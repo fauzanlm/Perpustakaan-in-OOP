@@ -1,0 +1,40 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Editor & IDE files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# Logs and databases
+*.log
+error_log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment and Local Configurations
+.env
+.env.local
+.env.*.local
+*.local.php
+
+# PHP & Composer
+vendor/
+composer.phar
+
+# Temporary files and uploads
+tmp/
+temp/
+uploads/
+*.bak
+*.tmp
